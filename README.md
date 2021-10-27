@@ -25,3 +25,26 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+=======================================================================
+develop recipe book app
+
+user should be able to add recipe
+
+user should be able to view or view details of a recipe
+
+user should be able to edit or update a recipe
+
+user should be able to delete a recipe.
+
+this should be setup with json server
+
+every recipe has 
+
+id 
+name
+description
+image
+
+=========================================================================
