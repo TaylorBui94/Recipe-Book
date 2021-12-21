@@ -28,17 +28,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 =======================================================================
-develop recipe book app
+recipe book app
 
-user should be able to add recipe
+user can add recipe
 
-user should be able to view or view details of a recipe
+user can view or view details of a recipe
 
-user should be able to edit or update a recipe
+user can edit or update a recipe
 
-user should be able to delete a recipe.
+user can delete a recipe.
 
-this should be setup with json server
+uses json server
 
 every recipe has 
 
